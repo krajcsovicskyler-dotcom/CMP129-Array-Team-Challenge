@@ -2,13 +2,16 @@
 
 ## Team Members
 
-- 
-- 
-- 
+- Kyler 
+- Ahmed
+- Kyle
+- Sean
+- Angel 
+- Artem 
 
 ## Did your team use GitHub Copilot?
 
-- [ ] No
+- [X] No
 - [ ] Yes
 
 If yes, complete the sections below.
